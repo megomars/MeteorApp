@@ -1,2 +1,0 @@
-# MeteorApp
-Meteor Chat bot
